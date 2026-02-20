@@ -9,6 +9,14 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - Reverse Array
 - Max Element in Array
 - Prime Check
-- Check if Array is Sorted
+- Check if Array is Sorted 
 
-More problems coming daily 🚀
+## Day 2 – Arrays
+
+- Find Minimum Element
+- Find Min & Max in One Loop
+- Count Even and Odd Numbers
+- Linear Search
+- Reverse Array Using Swapping
+
+  More problems coming daily 🚀

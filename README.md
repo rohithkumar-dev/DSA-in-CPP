@@ -18,5 +18,13 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - Count Even and Odd Numbers
 - Linear Search
 - Reverse Array Using Swapping
+- 
+## Day 3 – Arrays (Intermediate Level)
 
+- Second Largest Element
+- Third Largest Element
+- Count Frequency of an Element
+- Check if Array is Palindrome
+- Remove Duplicates (Sorted Array)
+- 
   More problems coming daily 🚀

@@ -26,5 +26,11 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - Count Frequency of an Element
 - Check if Array is Palindrome
 - Remove Duplicates (Sorted Array)
-- 
+
+  ##  Day 4 – Binary Search Mastery
+- Standard Binary Search (Iterative)
+- First Occurrence (Binary Search)
+- Last Occurrence (Binary Search)
+- Count Occurrence (Binary Search)
+  
   More problems coming daily 🚀

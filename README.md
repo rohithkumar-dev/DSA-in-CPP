@@ -32,5 +32,11 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - First Occurrence (Binary Search)
 - Last Occurrence (Binary Search)
 - Count Occurrence (Binary Search)
+- 
+  ##  Day 5 – Bubble Sort
   
+- Basic Bubble Sort (Ascending)
+- Bubble Sort (Descending Order)
+- Count Total Swaps in Bubble Sort
+
   More problems coming daily 🚀

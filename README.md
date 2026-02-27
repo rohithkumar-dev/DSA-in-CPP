@@ -39,4 +39,21 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - Bubble Sort (Descending Order)
 - Count Total Swaps in Bubble Sort
 
-  More problems coming daily 🚀
+  
+## Day 6 – Selection & Insertion Sort
+- Selection Sort (Ascending)
+- Selection Sort (Descending)
+- Insertion Sort (Ascending)
+- Insertion Sort (Descending)
+
+## Day 7 – Advanced Array Operations
+- Insert Element at Given Position
+- Delete Element from Given Position
+- insert element at end
+- delete element by value
+- 
+- # Day 8– Advanced Array Operations
+- Left Rotate Array by K
+- Right Rotate Array by K
+- Reverse Array
+- Move All Zeros to End

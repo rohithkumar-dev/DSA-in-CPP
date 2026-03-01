@@ -51,9 +51,14 @@ Daily practice of Data Structures and Algorithms using C and C++.
 - Delete Element from Given Position
 - insert element at end
 - delete element by value
-- 
-- # Day 8– Advanced Array Operations
+
+##Day 8– Advanced Array Operations
 - Left Rotate Array by K
 - Right Rotate Array by K
 - Reverse Array
 - Move All Zeros to End
+
+## Day 9 – Arrays (Intermediate Level)
+-leaders in array 
+-missing number from 1 To N
+-mojority using brute force O(n^2)

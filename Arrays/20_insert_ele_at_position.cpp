@@ -18,7 +18,7 @@ int main() {
         return 0;
     }
     else{
-    for(int i=n;i>=pos;i--){
+    for(int i=n;i>pos;i--){
         a[i]=a[i-1];
     }
     }

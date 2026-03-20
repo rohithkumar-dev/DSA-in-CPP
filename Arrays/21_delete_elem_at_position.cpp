@@ -12,6 +12,7 @@ int main(){
  int pos;
   cout<<"enter position";
   cin>>pos;
+ pos--;
   for(int i=pos-1;i<n-1;i++){
       a[i]=a[i+1];
   }

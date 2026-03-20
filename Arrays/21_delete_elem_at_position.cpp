@@ -13,7 +13,7 @@ int main(){
   cout<<"enter position";
   cin>>pos;
  pos--;
-  for(int i=pos-1;i<n-1;i++){
+  for(int i=pos;i<n-1;i++){
       a[i]=a[i+1];
   }
  

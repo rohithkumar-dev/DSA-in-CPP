@@ -23,8 +23,8 @@ int main() {
      cout<<"enter value not found";
      return 0;
  }
- else{
-     for(int i=store;i<v.size()-1;i++){
+ else{                                               //else{
+     for(int i=store;i<v.size()-1;i++){              // v.erase(v.begin()+store);
          v[i]=v[i+1];
      }
      v.pop_back();
